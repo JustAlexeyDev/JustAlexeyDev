@@ -1,23 +1,24 @@
-# Привет, я Алексей!
+# Hello, I'm Alex!
 
-## React Frontend разработчик из Республики Саха (Якутия)
+## React Frontend developer from the Republic of Sakha (Yakutia)
 
-### О себе:
+### About Me:
 
-- Мне 16 лет
-- Я заинтересован в программировании и разработке веб-приложений
-- Умению создавать пользовательские интерфейсы с использованием современных технологий и инструментов
+- I am 16 years old
+- I am interested in programming and developing web applications
+- Ability to create user interfaces using modern technologies and tools
 
-### Мои навыки:
+### My skills:
 
-- Опыт работы с React.js и его экосистемой - год
-- Знание HTML, CSS и JavaScript
-- Умение работать с git и системами контроля версий
-- Базовые знания веб-дизайна и юзабилити
+- Experience with React.js and its ecosystem - one year
+- Knowledge of HTML, CSS and JavaScript
+- Ability to work with git and version control systems
+- Basic knowledge of web design and usability
 
-### Связаться со мной:
+### Contact with me:
 
 - Email: just.alexdev@gmail.com
-- GitHub: [https://github.com/JustAlexeyDev](ссылка)
+- GitHub: [https://github.com/JustAlexeyDev](link)
 
-Буду рад сотрудничеству и новым возможностям!
+I will be glad to cooperation and new opportunities!
+
