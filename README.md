@@ -34,4 +34,4 @@
 
 I will be glad to cooperation and new opportunities! 🐈‍⬛
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={JustAlexeyDev}&theme={tokyonighte}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustAlexeyDev&theme=tokyonighte
