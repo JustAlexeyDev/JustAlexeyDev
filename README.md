@@ -15,7 +15,7 @@
 - Ability to work with git and version control systems
 - Basic knowledge of web design and usability
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ### 💎 Experience in hackathons :
 
