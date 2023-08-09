@@ -15,6 +15,16 @@
 - Ability to work with git and version control systems
 - Basic knowledge of web design and usability
 
+### 💎 Experience in hackathons :
+
+- My Profession IT 2021
+- My Profession IT 2022
+- AccelProIT 2022
+- ITBootCAmp 2022
+- My Profession IT 2023
+- GISIT 2023
+- AccelProIT 2023
+
 ### 📧 Contact with me:
 
 - Email: just.alexdev@gmail.com
