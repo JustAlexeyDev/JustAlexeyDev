@@ -34,4 +34,4 @@
 
 I will be glad to cooperation and new opportunities! 🐈‍⬛
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JustAlexeyDev)](https://git.io/streak-stats)
+
