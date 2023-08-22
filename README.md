@@ -27,6 +27,12 @@
 - GISIT 2023
 - AccelProIT 2023
 
+### Work experience
+
+- Taught courses in programming
+- Worked as the chief specialist of the resource center
+- I make custom websites
+
 ### 📧 Contact with me:
 
 - Email: just.alexdev@gmail.com
