@@ -26,6 +26,8 @@
 - My Profession IT 2023
 - GISIT 2023
 - AccelProIT 2023
+- H.I.M Hackathons
+- ITBootCamp 2023
 
 ### Work experience
 
