@@ -40,6 +40,5 @@
 - Email: just.alexdev@gmail.com
 - GitHub: [https://github.com/JustAlexeyDev](link)
 
-I will be glad to cooperation and new opportunities! 🐈‍⬛
 
 https://github-stats-alpha.vercel.app/api?username=JustAlexeyDev
