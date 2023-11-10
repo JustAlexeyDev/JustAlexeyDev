@@ -22,11 +22,11 @@
 - My Profession IT 2021
 - My Profession IT 2022
 - AccelProIT 2022
-- ITBootCAmp 2022
+- ITBootCamp 2022
 - My Profession IT 2023
 - GISIT 2023
 - AccelProIT 2023
-- H.I.M Hackathons
+- H.I.M 2023
 - ITBootCamp 2023
 
 ### Work experience
