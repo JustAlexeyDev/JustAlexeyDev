@@ -28,6 +28,7 @@
 - AccelProIT 2023
 - H.I.M 2023
 - ITBootCamp 2023
+- Research And Design 2023
 
 ### Work experience
 
