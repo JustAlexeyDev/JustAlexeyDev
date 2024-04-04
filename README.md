@@ -37,7 +37,7 @@
 - Taught courses in programming
 - Worked as the chief specialist of the resource center
 - I make custom websites
-- Organized "Saturn Hackathon 2024"
+- Organized "Saturn Hackathon"
 - Web development teacher
 
 ### 📧 Contact with me:
