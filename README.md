@@ -29,7 +29,7 @@
 - H.I.M 2023
 - ITBootCamp 2023
 - Research And Design 2023
-- Сатурнский Хакатон 2024
+- Saturn Hackathon 2024
 - GISIT 2024
 
 ### Work experience
