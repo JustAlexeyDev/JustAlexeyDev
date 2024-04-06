@@ -1,6 +1,6 @@
 # Hello, I'm Alex! 👋🏻
 
-## ⚛️ React Frontend developer from the Republic of Sakha (Yakutia) ❄️
+## ⚛️ Fullstack developer from the Republic of Sakha (Yakutia) ❄️
 
 ### 🖥️ About Me:
 
