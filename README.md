@@ -34,6 +34,7 @@
 
 ### Work experience
 
+- CEO of ANO DCT "Saturn Skyline"
 - Taught courses in programming
 - Worked as the chief specialist of the resource center
 - I make custom websites
