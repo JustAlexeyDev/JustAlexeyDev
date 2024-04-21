@@ -1,4 +1,4 @@
-# Hello, I'm Alex! 👋🏻
+# Hello, I'm Alexey! 👋🏻
 
 ## ⚛️ Fullstack developer from the Republic of Sakha (Yakutia) ❄️
 
