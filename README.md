@@ -11,7 +11,7 @@
 ### 🧠 My skills:
 
 - Experience with React.js and its ecosystem - one year
-- Knowledge of HTML, CSS, JavaScript and starting learn DJango
+- Knowledge of HTML, CSS, JavaScript, ReactJS and starting learn DJango
 - Ability to work with git and version control systems
 - Basic knowledge of web design and usability
 
