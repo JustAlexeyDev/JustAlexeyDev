@@ -1,6 +1,6 @@
 # Hello, I'm Alexey! 👋🏻
 
-## ⚛️ Fullstack developer from the Republic of Sakha (Yakutia) ❄️
+## ⚛️ Frontend developer from the Republic of Sakha (Yakutia) ❄️
 
 ### 🖥️ About Me:
 
