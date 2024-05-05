@@ -31,6 +31,7 @@
 - Research And Design 2023
 - Saturn Hackathon 2024
 - GISIT 2024
+- Individual projects SESC NEFU 2024
 
 ### Work experience
 
