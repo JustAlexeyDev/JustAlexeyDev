@@ -35,7 +35,7 @@
 
 ### Work experience
 
-- CEO of DCT "Saturn Skyline"
+- CEO of DTC "Saturn Skyline"
 - Taught courses in programming
 - Worked as the chief specialist of the resource center
 - Organized "Saturn Hackathon"
