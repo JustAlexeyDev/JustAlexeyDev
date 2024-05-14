@@ -49,6 +49,11 @@
 - Specialized Training and Research Center of M.K. Ammosov North-Eastern Federal University (SUNC NEFU) Yakutsk c 2023 (10)Mathematics and Information Technologies
 - Children's Music School Olekminsk 2014-2016 (a)Piano, Accordion
 
+#### Additional education:
+- IT-CUBE: Web-Developer
+- IT School Expo-Skills
+- Growth point RoS(Yakutia)
+
 
 ### 📧 Contact with me:
 
