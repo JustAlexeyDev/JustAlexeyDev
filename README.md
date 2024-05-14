@@ -1,6 +1,6 @@
 # Hello, I'm Alexey! 👋🏻
 
-## ⚛️ Frontend developer from the Republic of Sakha (Yakutia) ❄️
+## ⚛️ Frontend web developer from the Republic of Sakha (Yakutia) ❄️
 
 ### 🖥️ About Me:
 
@@ -40,6 +40,15 @@
 - Worked as the chief specialist of the resource center
 - Organized "Saturn Hackathon"
 - Web development teacher
+
+### Education
+#### Schools:
+- District gymnasium “Evrika” Olekminsk 2014-2020
+- Yakovlev School No. 1 Olekminsk 2020-2022 (b)Minister of IT and Communications
+- School № 23 '23 Yakutsk 2022-2023 (a) IT Minister, DJ - SHUS Triumph
+- Specialized Training and Research Center of M.K. Ammosov North-Eastern Federal University (SUNC NEFU) Yakutsk c 2023 (10)Mathematics and Information Technologies
+- Children's Music School Olekminsk 2014-2016 (a)Piano, Accordion
+
 
 ### 📧 Contact with me:
 
