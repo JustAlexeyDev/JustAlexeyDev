@@ -51,7 +51,7 @@
 
 #### Additional education:
 - IT-CUBE: Web-Developer
-- IT School Expo-Skills
+- IT International School Expo-Skills
 - Growth point RoS(Yakutia)
 
 
