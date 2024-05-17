@@ -33,7 +33,7 @@
 - GISIT 2024
 - Individual projects SESC NEFU 2024
 
-### Work experience
+### 💾 Work experience
 
 - CEO of DTC "Saturn Skyline"
 - Taught courses in programming
@@ -41,7 +41,7 @@
 - Organized "Saturn Hackathon"
 - Web development teacher
 
-### Education
+### 📕 Education
 #### Schools:
 - District gymnasium “Evrika” Olekminsk 2014-2020
 - Yakovlev School No. 1 Olekminsk 2020-2022 (b)Minister of IT and Communications
