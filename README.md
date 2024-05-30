@@ -1,6 +1,6 @@
 # Hello, I'm Alexey! 👋🏻
 
-## ⚛️ Frontend web developer from the Republic of Sakha (Yakutia) ❄️
+## ⚛️ Frontend Web Developer from Olekminsk, Republic of Sakha (Yakutia) ❄️
 
 ### 🖥️ About Me:
 
