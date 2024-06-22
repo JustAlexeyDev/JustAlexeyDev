@@ -4,16 +4,16 @@
 
 ### 🖥️ About Me:
 
-- I am 17 years old
-- I am interested in programming and developing web applications
-- Ability to create user interfaces using modern technologies and tools
+- I am 17 years old.
+- I am interested in programming and developing web applications.
+- Ability to create user interfaces using modern technologies and tools.
 
 ### 🧠 My skills:
 
-- Experience with React.js and its ecosystem - one year
-- Knowledge of HTML, CSS, JavaScript, ReactJS and starting learn DJango
-- Ability to work with git and version control systems
-- Basic knowledge of web design and usability
+- Experience with React.js and its ecosystem - one year.
+- Knowledge of HTML, CSS, JavaScript, ReactJS and starting learn DJango.
+- Ability to work with git and version control systems.
+- Basic knowledge of web design and usability.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,figma,git,github,linux,python)](https://skillicons.dev)
 
@@ -53,7 +53,6 @@
 - IT-CUBE: Web-Developer
 - IT International School Expo-Skills
 - Growth point RoS(Yakutia)
-
 
 ### 📧 Contact with me:
 
