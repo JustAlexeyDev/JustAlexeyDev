@@ -48,13 +48,12 @@
 - Yakovlev School No. 1 Olekminsk 2020-2022 (b)Minister of IT and Communications
 - School № 23 '23 Yakutsk 2022-2023 (a) IT Minister, DJ - SHUS Triumph
 - Specialized Educational and Scientific Center of M.K. Ammosov North-Eastern Federal University (SECS NEFU) Yakutsk for 2023 (10)Mathematics and Information Technologies
-- Children's Music School Olekminsk 2014-2016 (a)Piano, Accordion
-- 
 
 #### Additional education:
 - IT-CUBE: Web-Developer
 - IT International School Expo-Skills
 - Growth point RoS(Yakutia)
+- Children's Music School Olekminsk 2014-2016 (a)Piano, Accordion
 
 ### 📧 Contact with me:
 
