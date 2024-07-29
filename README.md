@@ -44,8 +44,8 @@
 
 ### 📕 Education
 #### Schools:
-- District gymnasium “Evrika” Olekminsk 2014-2020
-- Yakovlev School No. 1 Olekminsk 2020-2022 (b)Minister of IT and Communications
+- District gymnasium “Evrika” Olekminsk (2014-2020)
+- Yakovlev School No. 1 Olekminsk (2020-2022) (b)Minister of IT and Communications
 - School № 23 '23 Yakutsk 2022-2023 (a) IT Minister, DJ - SHUS Triumph
 - Specialized Educational and Scientific Center of M.K. Ammosov North-Eastern Federal University (SECS NEFU) Yakutsk for 2023 (10)Mathematics and Information Technologies
 
