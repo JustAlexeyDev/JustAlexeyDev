@@ -41,7 +41,7 @@
 - Worked as the chief specialist of the resource center
 - Organized "Saturn Hackathon"
 - Web development teacher
-- Sommercamp-Lehrer von Synergy MFPU in Richtung UI/UX-Design
+- Teacher of the summer IT camp from Synergy MFPU in the UI/UX Design direction
 
 ### 📕 Education
 #### Schools:
