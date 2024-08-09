@@ -29,10 +29,8 @@
 - H.I.M 2023
 - ITBootCamp 2023
 - Research And Design 2023
-- Saturn Hackathon 2024 - 1 Stream
 - GISIT 2024
 - Individual projects SESC NEFU 2024
-- Saturn Hackathon 2024 - 2 Stream
 
 ### 💾 Work experience
 
