@@ -1,10 +1,9 @@
 # Hello, I'm Alexey! 👋🏻
 
-## ⚛️ Frontend Web Developer from Olekminsk, Republic of Sakha (Yakutia) ❄️
+## ⚛️ Developer from Olekminsk, Republic of Sakha (Yakutia) ❄️
 
 ### 🖥️ About Me:
 
-- I am 17 years old.
 - I am interested in programming and developing web applications.
 - Ability to create user interfaces using modern technologies and tools.
 
