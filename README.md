@@ -34,10 +34,9 @@
 ### 💾 Work experience
 
 - CEO of DTC "Saturn Skyline"
-- Taught courses in programming
+- Taught author's programming courses
 - Worked as the chief specialist of the resource center - 2023
 - Organized IT BootCamp "Saturn Hackathon - 2024"
-- Web development teacher
 - Teacher of the summer IT camp from Synergy MFPU in the UI/UX Design direction - from 2024
 
 ### 📕 Education
