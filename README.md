@@ -30,6 +30,8 @@
 - Research And Design 2023
 - GISIT 2024
 - Individual projects SESC NEFU 2024
+- H.I.M 2024
+- PeakIT 2024
 
 ### 💾 Work experience
 
