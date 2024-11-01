@@ -39,7 +39,7 @@
 - Taught author's programming courses
 - Worked as the chief specialist of the resource center - 2023
 - Organized IT BootCamp "Saturn Hackathon - 2024"
-- Teacher of the summer IT camp from Synergy MFPU in the UI/UX Design direction - from 2024
+- Teacher of  Synergy MFPU in the UI/UX Design direction - from 2024
 - Member of the Youth Administration under the Head of the City District “Yakutsk City” - from 2024
 
 ### 📕 Education
