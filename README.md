@@ -50,7 +50,7 @@
 - Specialized Educational and Scientific Center of M.K. Ammosov North-Eastern Federal University (SECS NEFU) Yakutsk for 2023 (10) Mathematics and Information Technologies
 
 #### Additional education:
-- Children's Music School Olekminsk 2014-2016 (a)Piano, Accordion
+- Children's Music School Olekminsk 2014-2016 (a)
 - Growth point RoS(Yakutia)
 - IT-CUBE: Web-Developer
 - IT International School Expo-Skills
