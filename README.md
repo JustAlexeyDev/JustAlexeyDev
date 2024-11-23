@@ -32,6 +32,8 @@
 - Individual projects SESC NEFU 2024
 - H.I.M 2024
 - PeakIT 2024
+- Research And Design 2024
+- MPIT NEFU 2024
 
 ### 💾 Work experience
 
