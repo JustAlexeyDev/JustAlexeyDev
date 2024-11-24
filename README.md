@@ -4,15 +4,12 @@
 
 ### 🖥️ About Me:
 
-- I am interested in programming and developing web applications.
-- Ability to create user interfaces using modern technologies and tools.
+- I wanna sleeeeeep..
 
 ### 🧠 My skills:
 
 - Experience with React.js and its ecosystem - one year.
-- Knowledge of HTML, CSS, JavaScript, ReactJS and starting learn DJango.
-- Ability to work with git and version control systems.
-- Basic knowledge of web design and usability.
+- Knowledge of JavaScript, ReactJS and starting learn Express.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,react,django,tailwindcss,figma,github,linux,nodejs)](https://skillicons.dev)
 
