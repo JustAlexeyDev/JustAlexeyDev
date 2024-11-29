@@ -30,8 +30,8 @@
 - H.I.M 2024
 - PeakIT 2024
 - Research And Design 2024
-- MPIT NEFU 2024
-- MPIT (OLK) 2024
+- My Profession IT NEFU 2024
+- My Profession IT (OLK) 2024
 
 ### 💾 Work experience
 
