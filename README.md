@@ -31,6 +31,7 @@
 - PeakIT 2024
 - Research And Design 2024
 - MPIT NEFU 2024
+- MPIT (OLK) 2024
 
 ### 💾 Work experience
 
