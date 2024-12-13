@@ -6,6 +6,8 @@
 
 - I wanna sleeeeeep..
 
+![LOK1fx's Stats](https://github-readme-stats.vercel.app/api?username=JustAlexeyDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ### 🧠 My skills:
 
 - Experience with React.js and its ecosystem - one year.
