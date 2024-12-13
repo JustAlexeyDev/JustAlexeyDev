@@ -6,7 +6,7 @@
 
 - I wanna sleeeeeep..
 
-![LOK1fx's Stats](https://github-readme-stats.vercel.app/api?username=JustAlexeyDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![JustAlexeyDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAlexeyDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### 🧠 My skills:
 
