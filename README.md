@@ -38,11 +38,8 @@
 ### 💾 Work experience
 
 - CEO of DTC "Saturn Skyline"
-- Taught author's programming courses
-- Worked as the chief specialist of the resource center - 2023
-- Organized IT BootCamp "Saturn Hackathon - 2024"
+- Organized IT BootCamp "Saturn Hackathon"
 - Teacher of  Synergy MFPU in the UI/UX Design direction - from 2024
-- Member of the Youth Administration under the Head of the City District “Yakutsk City” - from 2024
 
 ### 📕 Education
 #### Schools:
@@ -52,7 +49,6 @@
 - Specialized Educational and Scientific Center of M.K. Ammosov North-Eastern Federal University (SECS NEFU) Yakutsk for 2023 (10) Mathematics and Information Technologies
 
 #### Additional education:
-- Children's Music School Olekminsk 2014-2016 (a)
 - Growth point RoS(Yakutia)
 - IT-CUBE: Web-Developer
 - IT International School Expo-Skills
