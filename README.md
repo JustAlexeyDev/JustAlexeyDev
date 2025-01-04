@@ -34,6 +34,9 @@
 - Research And Design 2024
 - My Profession IT NEFU 2024
 - My Profession IT (OLK) 2024
+- Readings of the Specialized Educational and Scientific Center 2024
+- Solomon's Readings 2024
+- Step into the Future 2025
 
 ### 💾 Work experience
 
