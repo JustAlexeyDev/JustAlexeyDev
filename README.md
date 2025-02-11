@@ -4,7 +4,7 @@
 
 ### 🖥️ About Me:
 
-- I wanna sleeeeeep..
+- I wanna sleeeeeep....
 
 ![JustAlexeyDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAlexeyDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
