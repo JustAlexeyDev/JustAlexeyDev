@@ -37,10 +37,11 @@
 - Readings of the Specialized Educational and Scientific Center 2024
 - Solomon's Readings 2024
 - Step into the Future 2025
+- My Profession IT 2025
 
 ### 💾 Work experience
 
-- CEO of DTC "Saturn Skyline"
+- CEO of CoDT "Saturn Skyline"
 - Organized IT BootCamp "Saturn Hackathon"
 - Teacher of  Synergy MFPU in the UI/UX Design direction - from 2024
 
