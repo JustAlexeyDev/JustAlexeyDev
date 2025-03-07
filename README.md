@@ -41,7 +41,7 @@
 
 ### 💾 Work experience
 
-- CEO of CoDT "Saturn Skyline"
+- CEO of ANO "CoDT "Saturn Skyline"
 - Organized IT BootCamp "Saturn Hackathon"
 - Teacher of  Synergy MFPU in the UI/UX Design direction - from 2024
 
