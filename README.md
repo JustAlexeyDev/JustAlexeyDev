@@ -10,8 +10,7 @@
 
 ### 🧠 My skills:
 
-- Experience with React.js and its ecosystem - one year.
-- Knowledge of JavaScript, ReactJS and starting learn Express.
+Soon
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,react,django,tailwindcss,figma,github,linux,nodejs,bun,elysia)](https://skillicons.dev)
 
