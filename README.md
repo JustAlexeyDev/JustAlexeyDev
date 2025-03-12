@@ -40,7 +40,7 @@ Soon
 
 ### 💾 Work experience
 
-- CEO of ANO "CoDT "Saturn Skyline"
+- CEO of ANO "CoDT "Saturn Skyline" RoS(Yakutia)
 - Organized IT BootCamp "Saturn Hackathon"
 - Teacher of  Synergy MFPU in the UI/UX Design direction - from 2024
 
