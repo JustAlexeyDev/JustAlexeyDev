@@ -8,9 +8,7 @@
 
 ![JustAlexeyDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAlexeyDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### 🧠 My skills:
-
-Soon
+### 🧠 I know:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,react,django,tailwindcss,figma,github,linux,nodejs,bun,elysia)](https://skillicons.dev)
 
