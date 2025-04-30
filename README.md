@@ -34,7 +34,7 @@
 - Readings of the Specialized Educational and Scientific Center 2024
 - Solomon's Readings 2024
 - Step into the Future 2025
-- My Profession IT 2025
+- My Profession IT 2025 (Expert)
 - GISIT 2025 (Expert)
 - LevelUp 2025
 
