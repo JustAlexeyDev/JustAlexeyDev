@@ -36,7 +36,7 @@
 - Step into the Future 2025
 - My Profession IT 2025
 - GISIT 2025 (Expert)
-- LevelUp gamedev
+- LevelUp 2025
 
 ### 💾 Work experience
 
