@@ -10,7 +10,7 @@
 
 ### 🧠 I know:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,react,django,tailwindcss,figma,github,linux,nodejs,bun,elysia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,react,django,tailwindcss,figma,github,linux,nodejs,bun,elysia,assembler)](https://skillicons.dev)
 
 ### 💎 Experience in hackathons :
 
@@ -37,6 +37,7 @@
 - My Profession IT 2025 (Expert)
 - GISIT 2025 (Expert)
 - LevelUp 2025
+- PeakIT 2025
 
 ### 💾 Work experience
 
